@@ -1,6 +1,6 @@
 *All data is from YellowPages I do not own any of the information related to finding locations*
 
 
-To run this file, type 'python search.py'
+To run this file, type 'python search.py' into the command line in this directory
 A prompt will show up asking where what you would like to search for with location arguments
 You will then see a list of all the nearby locations related to your search appear
